@@ -1,6 +1,6 @@
 import React from 'react'
 import { useReducer } from 'react';
-import Counter from './Components/Counter'; // (Optional) Not used in current code, may be part of another component
+
 
 // 🔹 Step 1: Initial state
 const initialState = { count: 0 };  // This is the initial state passed to useReducer
